@@ -11,4 +11,9 @@
 - [ ] **Phase 2: Data Analysis** - تحليل البيانات و SQL
 - [ ] **Phase 3: AI & ML** - بناء نماذج ذكاء اصطناعي
 - [ ] **Phase 4: Cyber Security** - تأمين الأنظمة
-- [ ] ### 📂 هيكل المشروع
+### 🛠️ Tech Stack
+`Python` `Git` `Linux` `SQL` `AI` `Cyber Security`
+### 📂 هيكل المشروع
+
+---
+**"المجد لمن لا ينام" - TAMER2050**
