@@ -4,7 +4,7 @@
 > **Owner:** TAMER2050 | **Started:** Aug 2026 | **Philosophy:** لا يوجد كود ضعيف، يوجد كود غير منظم
 
 هذا المستودع يوثق رحلتي الكاملة بمعايير شركات عالمية. كل يوم مشروع حقيقي وكود احترافي.
-
+> 🚧 **Status: Work In Progress - يتم التحديث يوميا بمعايير شركات عالمية**
 ### 🗺️ Roadmap - خارطة الطريق
 - [x] **Phase 0: Foundation** - تأسيس المعمل (GitHub, Professional Workflow)
 - [ ] **Phase 1: Python Core** - أساسيات بايثون الصلبة
